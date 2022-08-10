@@ -8,5 +8,8 @@
   },
   "keywords": [],
   "author": "victorpinedomartinez@gmail.com",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "redux": "^4.2.0"
+  }
 }
